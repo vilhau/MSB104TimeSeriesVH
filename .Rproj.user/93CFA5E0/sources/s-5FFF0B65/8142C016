@@ -3,24 +3,24 @@
     "path": "~/Documents/MASTER/Data Science/Git_projects/MSB104TimeSeriesVH/R/hello.R",
     "project_path": "R/hello.R",
     "type": "r_source",
-    "hash": "418920588",
+    "hash": "2987906513",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1634119211256.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "36,0",
-        "scrollLine": "22"
+        "cursorPosition": "22,0",
+        "scrollLine": "9"
     },
     "folds": "",
-    "lastKnownWriteTime": 1634124570,
+    "lastKnownWriteTime": 1634212418,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1634211749082,
+    "last_content_update": 1634212418167,
     "read_only": false,
     "read_only_alternatives": []
 }

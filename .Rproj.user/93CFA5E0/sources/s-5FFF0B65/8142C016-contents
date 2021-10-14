@@ -13,26 +13,11 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-hello <- function() {
-  print("Hello, world!")
-}
-hello()
 
-hello <- function(name=NULL){
-  tekst <- paste("Hello world! My name is", name)
+
+
+hello <- function(name=NULL,ettern=NULL) {
+  tekst <- paste("Hello world! My name is", name, ettern)
   print(tekst)
 }
-
-hello("Vilde")
-
-#`This is a hello function with a name argument
-#´@export
-hello <- function(){
-  print("Hello, world! My name is Vilde")
-}
-
-library(MSB104TimeSeriesVH)
-### Package consists of the following functions
-ls(package:MSB104TimeSeriesVH)
-
 
